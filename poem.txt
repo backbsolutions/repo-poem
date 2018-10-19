@@ -1,15 +1,20 @@
-The rainbow
+The rainbow and the unicorn.(branched from master to unicorn)
 
 Purple
 Pink
 Orange
+Unicorn
 Blue
 Green
 Yellow
 Red
+
+Here am adding some more lines 
+
 here am adding same colors name 
 Orange
 Blue
 Green
 Yellow
 Red
+
