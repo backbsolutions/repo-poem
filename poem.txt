@@ -7,4 +7,9 @@ Blue
 Green
 Yellow
 Red
-
+here am adding same colors name 
+Orange
+Blue
+Green
+Yellow
+Red
