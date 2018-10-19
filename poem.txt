@@ -10,3 +10,11 @@ Yellow
 Red
 
 Here am adding some more lines 
+
+here am adding same colors name 
+Orange
+Blue
+Green
+Yellow
+Red
+
